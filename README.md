@@ -1,4 +1,6 @@
-### Hi there 👋
+### i! I'm Jésica 👋
+
+I'm Jésica and I'm from Spain. In my free time I enjoy doing in my own projects.
 
 <!--
 **yemafe/yemafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
